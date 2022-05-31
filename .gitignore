@@ -1,0 +1,8 @@
+*~
+*.*~
+*.db
+*.pyc
+*.zip
+*.egg-info
+.coverage
+
