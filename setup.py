@@ -27,7 +27,6 @@ setup(
                       "special but to serve as a sample layout for another "
                       "Django apps. It offers a simple arithmetic "
                       "calculator. Read the docs to know more."),
-    maintainer_email="mbox@danir.us",
     url="http://pypi.python.org/pypi/django-sample-app/",
     classifiers=[
         'Development Status :: 4 - Beta',
